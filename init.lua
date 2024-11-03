@@ -18,7 +18,7 @@ require("lazy").setup({
   spec = { import = "plugins" }
 })
 
-vim.api.keymap.set("n", "<leader>r", "<cmd>Lazy<cr>")
+vim.keymap.set("n", "<leader>r", "<cmd>Lazy<cr>")
 
 vim.api.nvim_set_keymap("n", "<c-=>", "<cmd>lua vim.g.neovide_scale_factor = vim.g.neovide_scale_factor + 0.1<cr>", { silent = true })
 vim.api.nvim_set_keymap("n", "<c-->", "<cmd>lua vim.g.neovide_scale_factor = vim.g.neovide_scale_factor - 0.1<cr>", { silent = true })
