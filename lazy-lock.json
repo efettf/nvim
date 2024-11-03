@@ -2,6 +2,7 @@
   "cmp-emoji.nvim": { "branch": "main", "commit": "a233df710816cde3a7ab7775c41cdcec304192cd" },
   "cmp-path": { "branch": "main", "commit": "91ff86cd9c29299a64f968ebb45846c485725f23" },
   "cmp-treesitter": { "branch": "master", "commit": "958fcfa0d8ce46d215e19cc3992c542f576c4123" },
+  "gitsigns.nvim": { "branch": "main", "commit": "7c27a30450130cd59c4994a6755e3c5d74d83e76" },
   "lazy.nvim": { "branch": "main", "commit": "077102c5bfc578693f12377846d427f49bc50076" },
   "mini.base16": { "branch": "main", "commit": "97abc91a0ef042dbb0607ac538c5fecc65302fbb" },
   "noice.nvim": { "branch": "main", "commit": "5a78b42bec5e775f2db03bf93f6d1e0f3636306c" },
@@ -10,6 +11,7 @@
   "nvim-cmp": { "branch": "main", "commit": "f17d9b4394027ff4442b298398dfcaab97e40c4f" },
   "nvim-recorder": { "branch": "main", "commit": "a3c268f706ffec4428ea74bba6dfa3a0b20afa37" },
   "nvim-treesitter": { "branch": "master", "commit": "01a92da4389b5346b4049c5b42256c9d84526f04" },
+  "oil.nvim": { "branch": "master", "commit": "52cc8a1fb35ea6ce1df536143add7ce7215c63c0" },
   "plenary.nvim": { "branch": "master", "commit": "2d9b06177a975543726ce5c73fca176cedbffe9d" },
   "telescope.nvim": { "branch": "master", "commit": "85922dde3767e01d42a08e750a773effbffaea3e" },
   "which-key.nvim": { "branch": "main", "commit": "8badb359f7ab8711e2575ef75dfe6fbbd87e4821" }
