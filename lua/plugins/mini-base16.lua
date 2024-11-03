@@ -1,6 +1,7 @@
 return {
   {
     'echasnovski/mini.base16',
+    lazy = false,
     config = function() 
       require("mini.base16").setup({
         palette = {
