@@ -13,6 +13,7 @@ vim.g.neovide_padding_bottom = 10
 vim.g.neovide_padding_right = 7
 vim.g.neovide_padding_left = 1
 vim.g.neovide_padding_top = 10
+vim.g.neovide_scale_factor = 0.8
 
 require("lazy").setup({
   spec = { import = "plugins" }
