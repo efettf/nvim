@@ -32,7 +32,6 @@ vim.o.formatoptions = "cr"
 vim.o.guicursor = "a:hor20"
 vim.o.ignorecase = true
 vim.o.incsearch = true
-vim.o.laststatus = 0
 vim.o.linespace = 2
 vim.o.magic = true
 vim.o.number = true
