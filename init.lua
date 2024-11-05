@@ -13,12 +13,6 @@ local a = vim.api
 local k = vim.keymap
 
 g.mapleader = " "
-g.neovide_transparency = 0.85
-g.neovide_padding_bottom = 10
-g.neovide_padding_right = 7
-g.neovide_padding_left = 1
-g.neovide_padding_top = 10
-g.neovide_scale_factor = 0.8
 
 require("lazy").setup({
   spec = { import = "plugins" }
