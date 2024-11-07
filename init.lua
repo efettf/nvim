@@ -34,6 +34,7 @@ o.ignorecase = true
 o.incsearch = true
 o.linespace = 2
 o.magic = true
+o.laststatus = 0
 o.number = true
 o.scrolloff = 8
 o.shiftwidth = 2
